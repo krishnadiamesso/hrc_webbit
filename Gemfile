@@ -75,3 +75,7 @@ group :test do
 end
 
 gem "devise", "~> 4.8"
+
+gem "image_processing", ">= 1.2"
+
+gem "inline_svg", "~> 1.8"

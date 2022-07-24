@@ -1,4 +1,6 @@
-/* Entry point for your PostCSS build */
+@import "components/buttons.css"; /* Entry point for your PostCSS build */
+@import "components/forms.css"; /* Entry point for your PostCSS build */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
